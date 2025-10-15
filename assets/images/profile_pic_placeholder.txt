@@ -1,0 +1,12 @@
+This is a placeholder file to indicate where the profile picture should be placed.
+
+To add a real profile picture:
+1. Replace this file with an image named 'profile_pic.jpg'
+2. The image should be square (e.g., 300x300 pixels)
+3. Supported formats: jpg, png, gif
+4. If no image is found, the app will show a blue person icon
+
+You can download sample profile pictures from:
+https://drive.google.com/drive/folders/1I4_qxFgwpNOa8f_66lJG9Mzig4XbATr8?usp=share_link
+
+Make sure to name your image exactly: profile_pic.jpg
